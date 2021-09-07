@@ -203,6 +203,24 @@ int main() {
 
 <!-- /.c -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/abs2`][@stdlib/math/base/special/abs2]: compute the squared absolute value of a double-precision floating-point number.
+-   [`@stdlib/math/base/special/absf`][@stdlib/math/base/special/absf]: compute the absolute value of a single-precision floating-point number.
+-   [`@stdlib/math/base/special/labs`][@stdlib/math/base/special/labs]: compute an absolute value of a signed 32-bit integer.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -259,6 +277,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-abs/main/LICENSE
 
 [absolute-value]: https://en.wikipedia.org/wiki/Absolute_value
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/abs2]: https://github.com/stdlib-js/math-base-special-abs2
+
+[@stdlib/math/base/special/absf]: https://github.com/stdlib-js/math-base-special-absf
+
+[@stdlib/math/base/special/labs]: https://github.com/stdlib-js/math-base-special-labs
+
+<!-- </related-links> -->
 
 </section>
 
