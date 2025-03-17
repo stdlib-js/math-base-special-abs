@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-03-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b93bbb1`](https://github.com/stdlib-js/stdlib/commit/b93bbb19d5f3142b563064cfc732640ee0659e2c) - **docs:** replace manual `for` loop in examples _(by Athan Reines)_
 -   [`644c390`](https://github.com/stdlib-js/stdlib/commit/644c39075c6d5b630f8d0e2fce1ecbde540a9892) - **build:** add WebAssembly configuration and fix indentation _(by Athan Reines)_
 -   [`c24de14`](https://github.com/stdlib-js/stdlib/commit/c24de14b9ee9c026f00c40ed378077007a8054b0) - **chore:** clean-up docs, benchmarks, and examples _(by Athan Reines)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
