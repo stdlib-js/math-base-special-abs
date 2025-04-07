@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-04-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`b93bbb1`](https://github.com/stdlib-js/stdlib/commit/b93bbb19d5f3142b563064cfc732640ee0659e2c) - **docs:** replace manual `for` loop in examples _(by Athan Reines)_
 -   [`644c390`](https://github.com/stdlib-js/stdlib/commit/644c39075c6d5b630f8d0e2fce1ecbde540a9892) - **build:** add WebAssembly configuration and fix indentation _(by Athan Reines)_
 -   [`c24de14`](https://github.com/stdlib-js/stdlib/commit/c24de14b9ee9c026f00c40ed378077007a8054b0) - **chore:** clean-up docs, benchmarks, and examples _(by Athan Reines)_
@@ -28,9 +29,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 
 </section>
 
