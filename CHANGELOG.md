@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-05-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`76b5a2a`](https://github.com/stdlib-js/stdlib/commit/76b5a2a16fc50b903970a86bae38f99554537be4) - **chore:** add structured package data _(by Karan Anand)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`b93bbb1`](https://github.com/stdlib-js/stdlib/commit/b93bbb19d5f3142b563064cfc732640ee0659e2c) - **docs:** replace manual `for` loop in examples _(by Athan Reines)_
 -   [`644c390`](https://github.com/stdlib-js/stdlib/commit/644c39075c6d5b630f8d0e2fce1ecbde540a9892) - **build:** add WebAssembly configuration and fix indentation _(by Athan Reines)_
